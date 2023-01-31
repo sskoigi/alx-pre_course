@@ -1,0 +1,4 @@
+git checkout
+sed -i 's/old-text/new-text/g' input
+git push -u origin <branch>
+git push origin main
